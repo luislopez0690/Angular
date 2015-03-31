@@ -21,17 +21,17 @@ table button.edit {
     margin-right: 5px;
 }
 
-#add-edit-form {
+#addform {
 	width: 400px;
 	margin: 0px auto;
 }
 
-#add-edit-form div {
+#addform div {
 	margin: 10px 0px;
 	text-align: right;
 }
 
-#add-edit-form input, #add-edit-form select {
+#addform input, #add-edit-form select {
 	width: 300px;
 }
 
